@@ -1,0 +1,14 @@
+How to run the Bus Pass Management System Project Using PHP and MySQL
+
+Download the zip file
+Extract the file and copy buspassms folder
+Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+Open PHPMyAdmin (http://localhost/phpmyadmin)
+Create a database with name buspassdb
+Import buspassdb.sql file(given inside the zip package in SQL file folder)
+Run the script http://localhost/buspassms
+Admin Credential
+Username: admin
+Password: Test@123
+
+Pass number: 681924385 or you can create a new pass.
